@@ -2,12 +2,13 @@
 
 A powerful, interactive web application built with **Streamlit** and **Plotly** to analyze and visualize flight delay data. This dashboard provides actionable insights into flight performance, cancellation reasons, and operational efficiency.
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Flight+Dashboard+Screenshot) 
+<img width="432" height="450" alt="newplot (14)" src="https://github.com/user-attachments/assets/d30edb60-ba50-4dab-8227-b270064800ca" />
+ 
 *Replace with an actual screenshot of your dashboard*
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-username-flight-dashboard.streamlit.app/)
+[![Streamlit App](https://flightdelaydataanalysis-3jkhuqhscob9r8jgiknyrl.streamlit.app/)
 *Replace with your actual deployment URL*
 
 ## 📊 Features
