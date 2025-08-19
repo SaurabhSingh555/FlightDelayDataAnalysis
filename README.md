@@ -8,7 +8,7 @@ A powerful, interactive web application built with **Streamlit** and **Plotly** 
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://flightdelaydataanalysis-3jkhuqhscob9r8jgiknyrl.streamlit.app/)
+https://flightdelaydataanalysis-3jkhuqhscob9r8jgiknyrl.streamlit.app/
 *Replace with your actual deployment URL*
 
 ## 📊 Features
